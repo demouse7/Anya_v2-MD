@@ -10,14 +10,14 @@ module.exports = {
      */
     botname: process.env.BotName || "Queen Anya Bot",
     footer: process.env.Footer || "© Powered By Queen Anya Bot",
-    prefa: process.env.Prefix || "-",
+    prefa: process.env.Prefix || ".",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
      * owner details and parameters
      */
     ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownernumber: process.env.Owner_Number || "237679499171",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
